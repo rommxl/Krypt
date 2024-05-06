@@ -4,10 +4,10 @@ module.exports = {
   solidity: "0.8.9",
   networks:{
     sepolia:{
-      url: "https://eth-sepolia.g.alchemy.com/v2/RliDHWbgSVuoiE_3SIigPFH4KE4b8SGN",
+      url: "https://eth-sepolia.g.alchemy.com/v2/BPvp68GLNRGFMpHWbpl5o54p4Zwfmtdb",
       accounts: ['134dcb9be55f609938adc6bb8dce7c8cefd94293c62479328aa2650ae1340cf0']
     }
   }
 }
 
-// 0x45F81d274902C618bB33470524aEAB6bB4a1e0b9
+// 0xC6E7469594a316a9978FAEc093506D4921D6C591
