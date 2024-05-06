@@ -38,10 +38,6 @@ KYC (Know Your Customer) is a process of verifying the identity of the customers
 3. **Integration with Identity Verification Services**: The decentralized KYC verification system can be integrated with identity verification services to provide a secure way to verify the identity of the customers.
 4. **Integration with Decentralized Storage**: The decentralized KYC verification system can be integrated with decentralized storage to provide a secure way to store the customer’s identity information.
 ---
-## Team Members
-1. **Shubham Vishwakarma (Leader)**
-2. **Anish Gade**
-3. **Bodhisatya Ghosh**
 
 
 
