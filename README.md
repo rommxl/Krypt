@@ -1,7 +1,4 @@
-# Synergy-DJSCE
-Decentralized KYC verification 
-Deployed Link: [Click here to view the live app](https://synergy-byte-me-vercel.vercel.app/) <br/>
----
+
 **Please view this on brave browser or metamask enabled browser only.**
 ---
 ## Problem Statement
